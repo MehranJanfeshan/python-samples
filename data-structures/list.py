@@ -1,5 +1,8 @@
 my_list = [1, 2, 3]
 
+# get the size of list
+print(len(my_list))
+
 # get size of list
 print(len(my_list))
 
@@ -30,11 +33,8 @@ my_list4.sort()
 print(my_list3)
 print(my_list4)
 
-
 # Reverse method - This changes the list and it does not return back anything!
 my_list3.reverse()
 my_list4.reverse()
 print(my_list3)
 print(my_list4)
-
-

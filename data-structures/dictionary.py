@@ -1,3 +1,4 @@
+# Dictionaries are not in order so, if you iterate over them you may not get them in order
 my_dict = {'key1': 'value1', 'key2': 'value2'}
 print(my_dict)
 
