@@ -1,5 +1,11 @@
 my_list = [1, 2, 3]
 
+# Adding multiple items to the list
+my_list.extend([4, 6, 7])
+
+# Adding one item to the list
+my_list.append(12)
+
 # get the size of list
 print(len(my_list))
 
